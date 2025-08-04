@@ -1,0 +1,4 @@
+.env
+whisper/
+*.ogg
+__pycache__
